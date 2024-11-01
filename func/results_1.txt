@@ -1,0 +1,3 @@
+[FUNCTION 1] Maximum execution time (1000 executions): 63 (ms)
+[FUNCTION 2] Maximum execution time (1000 executions): 97 (ms)
+[FUNCTION 3] Maximum execution time (1000 executions): 109 (ms)
